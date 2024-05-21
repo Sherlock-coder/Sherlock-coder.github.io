@@ -6,7 +6,8 @@ excerpt: 'Continual learning of generative retrieval models for knowledge-intens
 date: 2024-2-26
 venue: 'Submitted to ACM TOIS (under review)'
 paperurl: 'https://arxiv.org/pdf/2402.16767'
-citation: '@article{guo2024corpusbrain++,
+citation: '
+@article{guo2024corpusbrain++,
   title={CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks},
   author={Guo, Jiafeng and Zhou, Changjiang and Zhang, Ruqing and Chen, Jiangui and de Rijke, Maarten and Fan, Yixing and Cheng, Xueqi},
   journal={arXiv preprint arXiv:2402.16767},
