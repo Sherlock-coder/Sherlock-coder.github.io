@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,3 +22,7 @@ I am a first-year Master student in Computer Science and Technology at [Institut
 # Hornors and Awards
 
 * Gold Medal of *Jilin Provincial Collegiate Programming Contest*
+
+# Message Board
+
+* Stay angry and never settle.
