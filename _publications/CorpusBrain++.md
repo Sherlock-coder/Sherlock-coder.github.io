@@ -3,7 +3,7 @@ title: "CorpusBrain++: A Continual Generative Pre-Training Framework for Knowled
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Continual learning of generative retrieval models for knowledge-intensive language tasks.'
-date: 2024-2
+date: 2024-2-26
 venue: 'Submitted to ACM TOIS (under review)'
 paperurl: 'https://arxiv.org/pdf/2402.16767'
 citation: 'Guo J, Zhou C, Zhang R, et al. CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks[J]. arXiv preprint arXiv:2402.16767, 2024.'
