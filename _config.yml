@@ -21,7 +21,7 @@ repository               : "Sherlock-coder/Sherlock-coder.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Changjiang Zhou"
   pronouns         : # example: "he/his"  
   bio              : "A learner now, maybe a geek in the future."
